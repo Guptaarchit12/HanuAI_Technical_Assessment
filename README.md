@@ -1,4 +1,3 @@
-# HanuAI_Technical_Assessment
 
 # HanuAI Technical Assessment
 
